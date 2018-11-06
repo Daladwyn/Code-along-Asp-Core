@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BethanysPieShop.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20181105150715_FeedbackAdded")]
+    [Migration("20181106093712_FeedbackAdded")]
     partial class FeedbackAdded
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
